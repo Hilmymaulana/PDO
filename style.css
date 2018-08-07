@@ -1,0 +1,40 @@
+table{
+  margin: 10px 0px 10px 0px;
+  width: 70%;
+  height: 15%;
+  text-align: center;
+  border-radius: 3px;
+}
+form{
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  padding: 20px;
+  border: 3px solid #bbbbbb;
+  border-radius: 5px;
+}
+.input-type{
+  margin: 10px 0px 10px 0px;
+}
+.input-type input{
+  height: 30px;
+  width: 50%;
+  padding: 5px 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+.input-type label{
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-type button{
+  cursor: pointer;
+  padding: 10px;
+  font-size: 15px;
+  color: black;
+  background: white;
+  border: none;
+  border-radius: 5px;
+}
